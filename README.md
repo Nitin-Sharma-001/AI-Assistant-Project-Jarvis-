@@ -33,9 +33,9 @@ The goal of this project is to build a foundation for developing intelligent and
    cd AI-Assistant-Project (Jarvis)
 
 2. Install required dependencies:
-  ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. Run the main script:
-  ```bash
-  python main.py
+   ```bash
+   python main.py
